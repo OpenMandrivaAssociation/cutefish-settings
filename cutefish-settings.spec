@@ -10,6 +10,7 @@ URL:            https://github.com/cutefishos/settings
 Source:         https://github.com/cutefishos/settings/archive/refs/tags/%{version}/%{oname}-%{version}.tar.gz
 
 BuildRequires:  cmake
+BuildRequires:  qmake5
 BuildRequires:  cmake(KF5BluezQt)
 BuildRequires:  cmake(KF5CoreAddons)
 BuildRequires:  cmake(KF5ModemManagerQt)
