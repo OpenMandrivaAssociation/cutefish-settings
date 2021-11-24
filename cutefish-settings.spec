@@ -57,4 +57,4 @@ rm -rf src/update
 %license LICENSE
 %doc README.md
 %{_bindir}/%{name}
-%{_datadir}/applications/%{oname}.desktop
+#{_datadir}/applications/%{oname}.desktop
