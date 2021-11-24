@@ -1,4 +1,4 @@
-%define omame settings
+%define oname settings
 
 Name:           cutefish-settings
 Version:        0.5
