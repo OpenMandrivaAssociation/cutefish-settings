@@ -39,7 +39,7 @@ Cutefish Settings - The System Settings application for Cutefish Desktop.
 
 %prep
 %autosetup -n %{oname}-%{version} -p1
-sed -i 's/\(Name=\)\(Settings\)/\1Cutefish \2/' %{oname}.desktop
+#sed -i 's/\(Name=\)\(Settings\)/\1Cutefish \2/' %{oname}.desktop
 sed -i 's/QApt/#QApt/' CMakeLists.txt
 rm -rf src/update
 
