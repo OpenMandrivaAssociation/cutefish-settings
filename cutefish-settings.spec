@@ -1,7 +1,7 @@
 %define oname settings
 
 Name:           cutefish-settings
-Version:        0.7
+Version:        0.8
 Release:        1
 Summary:        System Settings application for Cutefish Desktop
 License:        GPL-3.0-or-later
