@@ -12,6 +12,7 @@ Source:         https://github.com/cutefishos/settings/archive/refs/tags/%{versi
 BuildRequires:  cmake
 BuildRequires:  qmake5
 BuildRequires:  cmake(KF5BluezQt)
+BuildRequires:  cmake(KF5Config)
 BuildRequires:  cmake(KF5CoreAddons)
 BuildRequires:  cmake(KF5ModemManagerQt)
 BuildRequires:  cmake(KF5NetworkManagerQt)
