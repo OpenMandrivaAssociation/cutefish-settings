@@ -2,7 +2,7 @@
 
 Name:           cutefish-settings
 Version:        0.8
-Release:        1
+Release:        2
 Summary:        System Settings application for Cutefish Desktop
 License:        GPL-3.0-or-later
 Group:          System/GUI/Other
